@@ -6,6 +6,8 @@ The syllabus is structured in 20 weeks, with weekly learning objectives, resourc
 
 There are 20 weeks of optional topics to cover either alongside or as continuous learning based on areas of interest and goals.
 
+---
+
 ## Table of Contents
 
 1. [Introduction to Python and Programming Basics](#introduction-to-python-and-programming-basics)
@@ -54,6 +56,8 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 **Example projects**: Simple calculator, Guess the number game
 
+&nbsp;  
+
 ## Object-Oriented Programming in Python
 
 **Estimated duration**: 1 week
@@ -65,6 +69,8 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
   - [Python Object-Oriented Programming (OOP) - For Beginners](https://www.programiz.com/python-programming/object-oriented-programming)
 
 **Example projects**: Simple bank account management system
+
+&nbsp;  
 
 ## Data Structures and Algorithms (Part 1)
 
@@ -78,6 +84,8 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 **Example projects**: Implement basic data structures and sorting algorithms in Python
 
+&nbsp;  
+
 ## File Input/Output and Exception Handling
 
 **Estimated duration**: 1 week
@@ -89,4 +97,20 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
   - [Python Exception Handling](https://www.geeksforgeeks.org/python-exception-handling/)
 
 **Example projects**: Text file analysis (word count, character count, etc.), simple CSV and JSON data processing
+
+&nbsp;  
+
+## Working with APIs and Databases
+
+**Estimated duration**: 2 weeks
+
+**Topics to learn**: RESTful APIs, API libraries (e.g., Requests), database fundamentals, SQL, and Python database libraries (e.g., SQLite, SQLAlchemy)
+
+**Resources to use**:
+  - [Real Python: API Integration in Python](https://realpython.com/api-integration-in-python/)
+  - [SQLAlchemy ORM Tutorial for Python Developers](https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/)
+
+**Example projects**: Simple API client, database-driven address book application
+
+&nbsp;  
 
