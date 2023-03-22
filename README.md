@@ -367,24 +367,3 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 &nbsp;
 
 ## Cybersecurity Fundamentals
-
-<details>
-<summary>Click to expand</summary>
-
-**Estimated duration**: 1 week
-
-**Topics to learn**: Basic security principles, network security, cryptography, secure coding practices, threat modeling, and incident response
-
-**Resources to use**:
-  - [Introduction to Cybersecurity](https://www.coursera.org/learn/introduction-cybersecurity)
-  - [Network Security Fundamentals](https://www.coursera.org/learn/network-security-fundamentals)
-  - [Cryptography I](https://www.coursera.org/learn/crypto)
-  - [Secure Coding Practices](https://www.coursera.org/learn/secure-coding-practices)
-  - [Threat Modeling](https://www.pluralsight.com/courses/threat-modeling-fundamentals)
-  - [Incident Response and Recovery](https://www.pluralsight.com/courses/incident-response-recovery)
-  - [Security Engineering](https://www.amazon.com/Security-Engineering-Building-Dependable-Distributed/dp/0470068523)
-
-**Example projects**: Identify and remediate security vulnerabilities in a web application
-
-</details>
-&nbsp;
