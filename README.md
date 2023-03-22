@@ -146,3 +146,17 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 **Example projects**: Refactor existing code using advanced Python concepts, implement a custom context manager
 &nbsp; 
+
+## Data Structures and Algorithms (Part 2)
+
+**Estimated duration**: 2 weeks
+
+**Topics to learn**: Trees, graphs, advanced sorting algorithms (merge, quick, and heap sort), and basic search algorithms (linear, binary)
+
+**Resources to use**:
+  - [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
+  - [Python Algorithms](https://www.amazon.com/Python-Algorithms-Mastering-Basic-Language/dp/148420056X)
+
+**Example projects**: Implement advanced data structures, sorting, and searching algorithms in Python
+&nbsp; 
+
