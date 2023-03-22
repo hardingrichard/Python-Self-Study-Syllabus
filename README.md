@@ -236,9 +236,6 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 ## Regular Expressions and Web Scraping
 
-<details>
-<summary>Click to expand</summary>
-
 **Estimated duration**: 1 week
 
 **Topics to learn**: Regular expressions, HTML parsing, web scraping, and data cleaning
@@ -250,13 +247,9 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 **Example projects**: Scrape data from websites of interest and visualize insights using pandas and Matplotlib
 
-</details>
 &nbsp;
 
 ## Basic Data Science and Visualization
-
-<details>
-<summary>Click to expand</summary>
 
 **Estimated duration**: 2 weeks
 
@@ -269,13 +262,9 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 **Example projects**: Analyze data sets of interest and create visualizations to gain insights
 
-</details>
 &nbsp;
 
 ## Introduction to Web Development with Flask
-
-<details>
-<summary>Click to expand</summary>
 
 **Estimated duration**: 3 weeks
 
@@ -288,13 +277,9 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 **Example projects**: Build a simple web application using Flask and deploy it to a cloud platform
 
-</details>
 &nbsp;
 
 ## Web Frontend Development
-
-<details>
-<summary>Click to expand</summary>
 
 **Estimated duration**: 4 weeks
 
@@ -307,13 +292,9 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 **Example projects**: Build a responsive web page using HTML, CSS, and JavaScript
 
-</details>
 &nbsp;
 
 ## Advanced Web Development with Django
-
-<details>
-<summary>Click to expand</summary>
 
 **Estimated duration**: 4 weeks
 
@@ -326,13 +307,9 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 **Example projects**: Build a blog application using Django and deploy it to a cloud platform
 
-</details>
 &nbsp;
 
 ## Containers and Orchestration
-
-<details>
-<summary>Click to expand</summary>
 
 **Estimated duration**: 3 weeks
 
@@ -344,13 +321,9 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 **Example projects**: Build a microservices architecture using Docker and Kubernetes
 
-</details>
 &nbsp;
 
 ## Continuous Integration and Continuous Deployment (CI/CD)
-
-<details>
-<summary>Click to expand</summary>
 
 **Estimated duration**: 1 week
 
@@ -365,13 +338,9 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 **Example projects**: Configure and deploy a Flask application using Travis CI and Heroku, implement automated testing with Jenkins, and learn how to create a CI/CD pipeline with GitHub Actions.
 
-</details>
 &nbsp;
 
 ## Cybersecurity Fundamentals
-
-<details>
-<summary>Click to expand</summary>
 
 **Estimated duration**: 2 weeks
 
@@ -384,13 +353,9 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 **Example projects**: Perform a vulnerability assessment and penetration testing on a system
 
-</details>
 &nbsp;
 
 ## Cloud Computing and Deployment
-
-<details>
-<summary>Click to expand</summary>
 
 **Estimated duration**: 2 weeks
 
@@ -403,13 +368,9 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 **Example projects**: Deploy a Flask application to a cloud server, create a Kubernetes cluster and deploy a microservice to it, and build and deploy a serverless API using AWS Lambda.
 
-</details>
 &nbsp;
 
 ## Introduction to Machine Learning with Python
-
-<details>
-<summary>Click to expand</summary>
 
 **Estimated duration**: 4 weeks
 
@@ -422,13 +383,9 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 **Example projects**: Build a simple machine learning model for classification or regression, apply clustering techniques to identify patterns in data, or implement a neural network for image classification.
 
-</details>
 &nbsp;
 
 ## Functional Programming
-
-<details>
-<summary>Click to expand</summary>
 
 **Estimated duration**: 1 week
 
@@ -441,13 +398,9 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 **Example projects**: Write a program using only functional programming concepts to solve a mathematical problem.
 
-</details>
 &nbsp;
 
 ## Introduction to DevOps
-
-<details>
-<summary>Click to expand</summary>
 
 **Estimated duration**: 1 week
 
@@ -460,13 +413,9 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 **Example projects**: Implement continuous integration and delivery for a web application using Jenkins and Ansible, and manage infrastructure as code with Terraform.
 
-</details>
 &nbsp;
 
 ## Open Source Contributions
-
-<details>
-<summary>Click to expand</summary>
 
 **Estimated duration**: 2-4 weeks
 
@@ -480,7 +429,5 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
   - [GitHub Explore: Open Source](https://github.com/explore)
 
 **Example projects**: Contribute to an open source project by fixing an issue, implementing a new feature, or adding tests/documentation.
-  
-</details>
 
 ---
