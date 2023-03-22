@@ -460,3 +460,25 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 </details>
 &nbsp;
+
+## Open Source Contributions
+
+<details>
+<summary>Click to expand</summary>
+
+**Estimated duration**: 2-4 weeks
+
+**Topics to learn**: Git branching, pull requests, code review, contributing guidelines, and open source licenses.
+
+**Resources to use**:
+  - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+  - [First Contributions](https://github.com/firstcontributions/first-contributions)
+  - [Good First Issues](https://goodfirstissues.com/)
+  - [Up for Grabs](https://up-for-grabs.net/#/)
+  - [GitHub Explore: Open Source](https://github.com/explore)
+
+**Example projects**: Contribute to an open source project by fixing an issue, implementing a new feature, or adding tests/documentation.
+  
+</details>
+
+---
