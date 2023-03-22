@@ -230,9 +230,9 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 **Example projects**: Practice solving coding challenges on LeetCode, HackerRank, and Interview Cake, participate in mock technical interviews with peers or mentors
 &nbsp;
 
-## Optional topics:
----
-### Regular Expressions and Web Scraping
+# Optional topics:
+
+## Regular Expressions and Web Scraping
 
 <details>
 <summary>Click to expand</summary>
@@ -249,3 +249,23 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 **Example projects**: Scrape data from websites of interest and visualize insights using pandas and Matplotlib
 
 </details>
+&nbsp;
+
+## Basic Data Science and Visualization
+
+<details>
+<summary>Click to expand</summary>
+
+**Estimated duration**: 2 weeks
+
+**Topics to learn**: Data wrangling, data analysis, data visualization using Python libraries like NumPy, Pandas, and Matplotlib
+
+**Resources to use**:
+  - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+  - [Data Science Essentials in Python](https://www.datacamp.com/courses/data-science-essentials-in-python)
+  - [Data Visualization with Matplotlib](https://www.datacamp.com/courses/data-visualization-with-matplotlib)
+
+**Example projects**: Analyze data sets of interest and create visualizations to gain insights
+
+</details>
+&nbsp;
