@@ -229,3 +229,21 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 **Example projects**: Practice solving coding challenges on LeetCode, HackerRank, and Interview Cake, participate in mock technical interviews with peers or mentors
 &nbsp;
+
+<details>
+<summary><a href="#regular-expressions-and-web-scraping">Regular Expressions and Web Scraping</a></summary>
+<p>
+
+**Estimated duration**: 1 week
+
+**Topics to learn**: Regular expressions, HTML parsing, web scraping, and data cleaning
+
+**Resources to use**:
+  - [Regular Expression Cookbook](https://www.oreilly.com/library/view/regular-expression-cookbook/9781449327453/)
+  - [Python Web Scraping Tutorial with Beautiful Soup](https://www.dataquest.io/blog/web-scraping-tutorial-python/)
+  - [Web Scraping with Python](https://www.oreilly.com/library/view/web-scraping-with/9781491910283/)
+
+**Example projects**: Scrape data from websites of interest and visualize insights using pandas and Matplotlib
+
+</p>
+</details>
