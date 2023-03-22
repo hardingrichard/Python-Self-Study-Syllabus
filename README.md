@@ -160,3 +160,15 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 **Example projects**: Implement advanced data structures, sorting, and searching algorithms in Python
 &nbsp; 
 
+## Design Patterns
+
+**Estimated duration**: 1 week
+
+**Topics to learn**: Creational, structural, and behavioral design patterns, Python implementations of popular design patterns
+
+**Resources to use**:
+  - [Python Design Patterns](https://refactoring.guru/design-patterns/python)
+  - [Python Design Patterns: For Sleek and Fashionable Code](https://www.amazon.com/Python-Design-Patterns-Fashionable-Code-ebook/dp/B08K96Q2W4)
+
+**Example projects**: Implement a small project using one or more design patterns
+&nbsp; 
