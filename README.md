@@ -230,8 +230,8 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 **Example projects**: Practice solving coding challenges on LeetCode, HackerRank, and Interview Cake, participate in mock technical interviews with peers or mentors
 &nbsp;
 
-<details>
-<summary><a href="#regular-expressions-and-web-scraping">Regular Expressions and Web Scraping</a></summary>
+## <details>
+<summary>Optional Topic: Regular Expressions and Web Scraping</summary>
 <p>
 
 **Estimated duration**: 1 week
