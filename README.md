@@ -269,3 +269,23 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 </details>
 &nbsp;
+
+## Introduction to Web Development with Flask
+
+<details>
+<summary>Click to expand</summary>
+
+**Estimated duration**: 3 weeks
+
+**Topics to learn**: Python web development, Flask web framework, HTTP requests and responses, routing, templates, and working with databases
+
+**Resources to use**:
+  - [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+  - [Flask Web Development with Python Tutorial](https://www.tutorialspoint.com/flask/index.htm)
+  - [Flask by Example - Building a CRUD Application](https://stackabuse.com/flask-by-example-building-a-crud-application-in-python/)
+
+**Example projects**: Build a simple web application using Flask and deploy it to a cloud platform
+
+</details>
+&nbsp;
+
