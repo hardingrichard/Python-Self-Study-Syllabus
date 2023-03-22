@@ -71,3 +71,16 @@
   - [Interactive Python: Problem Solving with Algorithms and Data Structures](https://runestone.academy/runestone/books/published/pythonds/index.html)
 
 **Example projects**: Implement basic data structures and sorting algorithms in Python
+
+## File Input/Output and Exception Handling
+
+**Estimated duration**: 1 week
+
+**Topics to learn**: File operations (reading, writing, appending), file formats (CSV, JSON, etc.), exception handling, and custom exception creation
+
+**Resources to use**:
+  - [Real Python: Reading and Writing Files in Python](https://realpython.com/read-write-files-python/)
+  - [Python Exception Handling](https://www.geeksforgeeks.org/python-exception-handling/)
+
+**Example projects**: Text file analysis (word count, character count, etc.), simple CSV and JSON data processing
+
