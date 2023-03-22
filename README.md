@@ -23,7 +23,7 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 11. [Updating CV and LinkedIn Profile](#updating-cv-and-linkedin-profile)
 12. [Soft Skills and Job Search Strategies](#soft-skills-and-job-search-strategies)
 13. [Technical Interview Preparation](#technical-interview-preparation)
-14. [Behavioral Interview Preparation and Job Offer Negotiation](#behavioral-interview-preparation-and-job-offer-negotiation)
+14. [Behavioral Interview Preparation](#behavioral-interview-preparationn)
 15. [Regular Expressions and Web Scraping](#regular-expressions-and-web-scraping) (Optional)
 16. [Basic Data Science and Visualization](#basic-data-science-and-visualization) (Optional)
 17. [Introduction to Web Development with Flask](#introduction-to-web-development-with-flask) (Optional)
@@ -42,7 +42,7 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 ## Introduction to Python and Programming Basics
 
-**Estimated duration**: 4 weeks
+**Estimated duration**: 3 weeks
 
 **Topics to learn**: Python installation, basic data types, operators, control structures, loops, and functions
 
@@ -57,7 +57,7 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 ## Object-Oriented Programming in Python
 
-**Estimated duration**: 4 week
+**Estimated duration**: 3 week
 
 **Topics to learn**: Classes, objects, inheritance, polymorphism, encapsulation, and abstract classes
 
@@ -70,7 +70,7 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 ## Data Structures and Algorithms (Part 1)
 
-**Estimated duration**: 5 weeks
+**Estimated duration**: 4 weeks
 
 **Topics to learn**: Arrays, linked lists, stacks, queues, hash tables, and basic sorting algorithms (bubble, insertion, and selection sort)
 
@@ -109,7 +109,7 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 ## Introduction to Git and Version Control
 
-**Estimated duration**: 1 week
+**Estimated duration**: 2 week
 
 **Topics to learn**: Version control, Git basics, GitHub, repositories, branching, merging, and collaboration
 
@@ -122,7 +122,7 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 ## Testing and Debugging
 
-**Estimated duration**: 1 week
+**Estimated duration**: 3 week
 
 **Topics to learn**: Unit testing, test-driven development (TDD), debugging techniques, and Python testing libraries (e.g., unittest, pytest)
 
@@ -135,7 +135,7 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 ## Advanced Python Concepts
 
-**Estimated duration**: 5 week
+**Estimated duration**: 4 week
 
 **Topics to learn**: List comprehensions, lambda functions, decorators, context managers, and generators
 
@@ -148,7 +148,7 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 ## Data Structures and Algorithms (Part 2)
 
-**Estimated duration**: 5 weeks
+**Estimated duration**: 4 weeks
 
 **Topics to learn**: Trees, graphs, advanced sorting algorithms (merge, quick, and heap sort), and basic search algorithms (linear, binary)
 
@@ -214,6 +214,22 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
   - [Interview Cake](https://www.interviewcake.com/)
 
 **Example projects**: Practice solving coding challenges on LeetCode, HackerRank, and Interview Cake, participate in mock technical interviews with peers or mentors
+&nbsp;
+
+## Behavioral Interview Preparation
+
+**Estimated duration**: 1 week
+
+**Topics to learn**: Behavioral interviews, STAR method, understanding company culture, preparing answers to common questions, and practicing effective communication
+
+**Resources to use**:
+  - [The 30 Behavioral Interview Questions You Should Be Ready to Answer](https://www.themuse.com/advice/30-behavioral-interview-questions-you-should-be-ready-to-answer)
+  - [How to Use the STAR Method to Ace Your Job Interview](https://www.indeed.com/career-advice/interviewing/how-to-use-the-star-method-to-ace-your-job-interview)
+  - [Behavioral Interview Questions and Best Answers](https://www.thebalancecareers.com/behavioral-job-interview-questions-2059627)
+  - [The Complete Guide to Behavioral Interviews](https://www.biginterview.com/blog/behavioral-interview-questions/)
+  - [How to Prepare for a Behavioral Interview](https://www.careercontessa.com/advice/behavioral-interview-prep/)
+
+**Example projects**: Reflect on past work experiences and develop answers to common behavioral questions using the STAR method, practice answering behavioral questions with peers or mentors, research company culture to tailor answers to specific organizations
 &nbsp;
 
 # Optional topics:
