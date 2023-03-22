@@ -422,3 +422,22 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 </details>
 &nbsp;
+
+## Functional Programming
+
+<details>
+<summary>Click to expand</summary>
+
+**Estimated duration**: 1 week
+
+**Topics to learn**: Pure functions, immutability, recursion, higher-order functions, currying, and closures
+
+**Resources to use**:
+  - [Functional Programming in Scala](https://www.coursera.org/learn/progfun1)
+  - [Eloquent JavaScript: Functional Programming](https://eloquentjavascript.net/1st_edition/chapter6.html)
+  - [Functional Programming Principles in JavaScript](https://www.udemy.com/course/functional-programming-principles-in-javascript/)
+
+**Example projects**: Write a program using only functional programming concepts to solve a mathematical problem.
+
+</details>
+&nbsp;
