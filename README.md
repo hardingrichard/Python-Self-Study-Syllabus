@@ -345,3 +345,23 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 </details>
 &nbsp;
 
+## Continuous Integration and Continuous Deployment (CI/CD)
+
+<details>
+<summary>Click to expand</summary>
+
+**Estimated duration**: 1 week
+
+**Topics to learn**: Continuous Integration, Continuous Deployment, Jenkins, Travis CI, GitHub Actions, and Heroku
+
+**Resources to use**:
+  - [Continuous Delivery with Docker and Jenkins](https://www.oreilly.com/library/view/continuous-delivery-with/9781491986068/)
+  - [Continuous Integration vs. Continuous Delivery vs. Continuous Deployment](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment)
+  - [Getting started with Travis CI](https://docs.travis-ci.com/user/getting-started/)
+  - [GitHub Actions Documentation](https://docs.github.com/en/actions)
+  - [Heroku CI/CD Documentation](https://devcenter.heroku.com/categories/ci-cd)
+
+**Example projects**: Configure and deploy a Flask application using Travis CI and Heroku, implement automated testing with Jenkins, and learn how to create a CI/CD pipeline with GitHub Actions.
+
+</details>
+&nbsp;
