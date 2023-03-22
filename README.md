@@ -34,11 +34,11 @@
 
 ## Introduction to Python and Programming Basics
 
-- **Estimated Duration**: 2 weeks
-- **Topics**: Python installation, basic data types, operators, control structures, loops, and functions
-- **Resources**: 
+**Estimated Duration**: 2 weeks
+**Topics to learn**: Python installation, basic data types, operators, control structures, loops, and functions
+**Resources to use**: 
   - [Python.org](https://www.python.org/doc/)
   - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
   - [Real Python](https://realpython.com/start-here/)
   - [W3Schools Python Tutorial](https://www.w3schools.com/python/)
-- **Projects**: Simple calculator, Guess the number game
+**Example Projects**: Simple calculator, Guess the number game
