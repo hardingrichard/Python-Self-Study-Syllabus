@@ -234,6 +234,9 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 # Optional topics:
 
+<Details>
+<Summary>Click to expand</summary>
+
 ## Regular Expressions and Web Scraping
 
 **Estimated duration**: 1 week
@@ -429,5 +432,7 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
   - [GitHub Explore: Open Source](https://github.com/explore)
 
 **Example projects**: Contribute to an open source project by fixing an issue, implementing a new feature, or adding tests/documentation.
+
+</Details>
 
 ---
