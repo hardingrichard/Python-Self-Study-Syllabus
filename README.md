@@ -289,3 +289,40 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 </details>
 &nbsp;
 
+## Web Frontend Development
+
+<details>
+<summary>Click to expand</summary>
+
+**Estimated duration**: 4 weeks
+
+**Topics to learn**: HTML, CSS, JavaScript, responsive design, web accessibility, and building user interfaces
+
+**Resources to use**:
+  - [HTML and CSS](https://www.codecademy.com/learn/learn-html-css)
+  - [JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+  - [Bootstrap 5 Tutorial](https://www.w3schools.com/bootstrap5/default.asp)
+
+**Example projects**: Build a responsive web page using HTML, CSS, and JavaScript
+
+</details>
+&nbsp;
+
+## Advanced Web Development with Django
+
+<details>
+<summary>Click to expand</summary>
+
+**Estimated duration**: 4 weeks
+
+**Topics to learn**: Python web development, Django web framework, models, views, templates, forms, and working with databases
+
+**Resources to use**:
+  - [Django Docs](https://docs.djangoproject.com/en/3.2/)
+  - [Django for Beginners](https://djangoforbeginners.com/)
+  - [Django Crash Course](https://www.youtube.com/watch?v=D6esTdOLXh4)
+
+**Example projects**: Build a blog application using Django and deploy it to a cloud platform
+
+</details>
+&nbsp;
