@@ -48,8 +48,6 @@
 
 **Example projects**: Simple calculator, Guess the number game
 
----
-
 ## Object-Oriented Programming in Python
 
 **Estimated duration**: 1 week
@@ -62,5 +60,14 @@
 
 **Example projects**: Simple bank account management system
 
----
+## Data Structures and Algorithms (Part 1)
 
+**Estimated duration**: 2 weeks
+
+**Topics to learn**: Arrays, linked lists, stacks, queues, hash tables, and basic sorting algorithms (bubble, insertion, and selection sort)
+
+**Resources to use**:
+  - [Python Algorithms](https://www.amazon.com/Python-Algorithms-Mastering-Basic-Language/dp/148420056X)
+  - [Interactive Python: Problem Solving with Algorithms and Data Structures](https://runestone.academy/runestone/books/published/pythonds/index.html)
+
+**Example projects**: Implement basic data structures and sorting algorithms in Python
