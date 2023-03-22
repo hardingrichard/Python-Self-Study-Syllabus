@@ -195,5 +195,22 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 **Resources to use**:
   - [The Google Resume](https://www.amazon.com/Google-Resume-Prepare-Microsoft-Company-ebook/dp/B006ZGGVYW)
   - [LinkedIn for Software Developers: A Complete Guide](https://dev.to/dailydotnettips/linkedin-for-software-developers-a-complete-guide-3md3)
+  - [How to Build a Strong Online Presence as a Software Developer](https://www.freecodecamp.org/news/how-to-build-a-strong-online-presence-as-a-software-developer-2f7d0bb91da3/)
 
-**Example projects**: Update your CV, optimize your LinkedIn profile, and showcase your projects and accomplishments
+**Example projects**: Update your CV, optimize your LinkedIn profile, and showcase your projects and accomplishments by building a personal website or online portfolio
+&nbsp;
+
+## Job Search Strategies
+
+**Estimated duration**: 1 week
+
+**Topics to learn**: Job search websites and resources, working with recruiters, preparing for interviews, salary negotiations, and evaluating job offers
+
+**Resources to use**:
+  - [Indeed](https://www.indeed.com/)
+  - [Glassdoor](https://www.glassdoor.com/)
+  - [Reed](https://www.reed.co.uk/)
+  - [Monster](https://www.monster.co.uk/)
+
+**Example projects**: Identify and apply to job postings that align with your career goals, work with a recruiter to find job opportunities, practice salary negotiations and evaluating job offers
+
