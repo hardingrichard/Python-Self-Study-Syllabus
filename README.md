@@ -23,7 +23,7 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 11. [Updating CV and LinkedIn Profile](#updating-cv-and-linkedin-profile)
 12. [Soft Skills and Job Search Strategies](#soft-skills-and-job-search-strategies)
 13. [Technical Interview Preparation](#technical-interview-preparation)
-14. [Behavioral Interview Preparation](#behavioral-interview-preparationn)
+14. [Behavioral Interview Preparation](#behavioral-interview-preparation)
 15. [Regular Expressions and Web Scraping](#regular-expressions-and-web-scraping) (Optional)
 16. [Basic Data Science and Visualization](#basic-data-science-and-visualization) (Optional)
 17. [Introduction to Web Development with Flask](#introduction-to-web-development-with-flask) (Optional)
