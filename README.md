@@ -326,3 +326,22 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 </details>
 &nbsp;
+
+## Containers and Orchestration
+
+<details>
+<summary>Click to expand</summary>
+
+**Estimated duration**: 3 weeks
+
+**Topics to learn**: Containerization, Docker, Kubernetes, container orchestration, and managing containers at scale
+
+**Resources to use**:
+  - [Docker Documentation](https://docs.docker.com/)
+  - [Kubernetes Documentation](https://kubernetes.io/docs/home/)
+
+**Example projects**: Build a microservices architecture using Docker and Kubernetes
+
+</details>
+&nbsp;
+
