@@ -367,3 +367,39 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 &nbsp;
 
 ## Cybersecurity Fundamentals
+
+<details>
+<summary>Click to expand</summary>
+
+**Estimated duration**: 2 weeks
+
+**Topics to learn**: Threat modeling, security assessment, security controls, vulnerability assessment, and penetration testing
+
+**Resources to use**:
+  - [Introduction to Cybersecurity Tools & Cyber Attacks](https://www.coursera.org/learn/introduction-cybersecurity-tools)
+  - [The Hacker Playbook 3: Practical Guide to Penetration Testing](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759)
+  - [The Art of Deception: Controlling the Human Element of Security](https://www.amazon.com/Art-Deception-Controlling-Element-Security/dp/0471237124)
+
+**Example projects**: Perform a vulnerability assessment and penetration testing on a system
+
+</details>
+&nbsp;
+
+## Cloud Computing and Deployment
+
+<details>
+<summary>Click to expand</summary>
+
+**Estimated duration**: 2 weeks
+
+**Topics to learn**: Cloud computing, virtual machines, containers, Kubernetes, cloud deployment, and serverless architecture
+
+**Resources to use**:
+  - [Cloud Computing Concepts](https://www.coursera.org/learn/cloud-computing)
+  - [Kubernetes: Up and Running, Second Edition](https://www.oreilly.com/library/view/kubernetes-up-and/9781492046527/)
+  - [Serverless Architectures on AWS](https://www.amazon.com/Serverless-Architectures-AWS-Examples-Practices/dp/1617293822)
+
+**Example projects**: Deploy a Flask application to a cloud server, create a Kubernetes cluster and deploy a microservice to it, and build and deploy a serverless API using AWS Lambda.
+
+</details>
+&nbsp;
