@@ -32,13 +32,35 @@
 28. [Introduction to DevOps](#introduction-to-devops) (Optional)
 29. [Open Source Contributions](#open-source-contributions) (Optional)
 
+---
+
 ## Introduction to Python and Programming Basics
 
-**Estimated Duration**: 2 weeks
+**Estimated duration**: 2 weeks
+
 **Topics to learn**: Python installation, basic data types, operators, control structures, loops, and functions
+
 **Resources to use**: 
   - [Python.org](https://www.python.org/doc/)
   - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
   - [Real Python](https://realpython.com/start-here/)
   - [W3Schools Python Tutorial](https://www.w3schools.com/python/)
-**Example Projects**: Simple calculator, Guess the number game
+
+**Example projects**: Simple calculator, Guess the number game
+
+---
+
+## Object-Oriented Programming in Python
+
+**Estimated duration**: 1 week
+
+**Topics to learn**: Classes, objects, inheritance, polymorphism, encapsulation, and abstract classes
+
+**Resources to use**:
+  - [Real Python: Object-Oriented Programming in Python](https://realpython.com/python3-object-oriented-programming/)
+  - [Python Object-Oriented Programming (OOP) - For Beginners](https://www.programiz.com/python-programming/object-oriented-programming)
+
+**Example projects**: Simple bank account management system
+
+---
+
