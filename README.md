@@ -403,3 +403,22 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 </details>
 &nbsp;
+
+## Introduction to Machine Learning with Python
+
+<details>
+<summary>Click to expand</summary>
+
+**Estimated duration**: 4 weeks
+
+**Topics to learn**: Supervised and unsupervised learning, model evaluation and selection, decision trees and random forests, regression analysis, clustering, neural networks, and deep learning
+
+**Resources to use**:
+  - [Introduction to Machine Learning with Python](https://www.coursera.org/learn/introduction-machine-learning-python)
+  - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
+  - [Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1801077856)
+
+**Example projects**: Build a simple machine learning model for classification or regression, apply clustering techniques to identify patterns in data, or implement a neural network for image classification.
+
+</details>
+&nbsp;
