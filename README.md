@@ -39,7 +39,6 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 27. [Functional Programming](#functional-programming) (Optional)
 28. [Introduction to DevOps](#introduction-to-devops) (Optional)
 29. [Open Source Contributions](#open-source-contributions) (Optional)
-
 &nbsp; 
 
 ## Introduction to Python and Programming Basics
@@ -55,7 +54,6 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
   - [W3Schools Python Tutorial](https://www.w3schools.com/python/)
 
 **Example projects**: Simple calculator, Guess the number game
-
 &nbsp;  
 
 ## Object-Oriented Programming in Python
@@ -69,7 +67,6 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
   - [Python Object-Oriented Programming (OOP) - For Beginners](https://www.programiz.com/python-programming/object-oriented-programming)
 
 **Example projects**: Simple bank account management system
-
 &nbsp;  
 
 ## Data Structures and Algorithms (Part 1)
@@ -83,7 +80,6 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
   - [Interactive Python: Problem Solving with Algorithms and Data Structures](https://runestone.academy/runestone/books/published/pythonds/index.html)
 
 **Example projects**: Implement basic data structures and sorting algorithms in Python
-
 &nbsp;  
 
 ## File Input/Output and Exception Handling
@@ -97,7 +93,6 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
   - [Python Exception Handling](https://www.geeksforgeeks.org/python-exception-handling/)
 
 **Example projects**: Text file analysis (word count, character count, etc.), simple CSV and JSON data processing
-
 &nbsp;  
 
 ## Working with APIs and Databases
@@ -111,7 +106,6 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
   - [SQLAlchemy ORM Tutorial for Python Developers](https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/)
 
 **Example projects**: Simple API client, database-driven address book application
-
 &nbsp;  
 
 ## Introduction to Git and Version Control
@@ -125,5 +119,17 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
   - [GitHub Guides](https://guides.github.com/)
 
 **Example projects**: Create a GitHub repository for your personal projects, practice Git workflow with a simple project
+&nbsp;  
 
+## Testing and Debugging
+
+**Estimated duration**: 1 week
+
+**Topics to learn**: Unit testing, test-driven development (TDD), debugging techniques, and Python testing libraries (e.g., unittest, pytest)
+
+**Resources to use**:
+  - [Real Python: Getting Started with Testing in Python](https://realpython.com/python-testing/)
+  - [Python Testing with pytest](https://pragprog.com/titles/bopytest/python-testing-with-pytest/)
+
+**Example projects**: Implement unit tests for a small Python project, practice debugging code using pdb
 &nbsp;  
