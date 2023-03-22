@@ -172,3 +172,28 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 **Example projects**: Implement a small project using one or more design patterns
 &nbsp; 
+
+## Soft Skills and Job Search Strategies
+
+**Estimated duration**: 1 week
+
+**Topics to learn**: Communication, teamwork, problem-solving, resume and cover letter writing, networking, and job search strategies
+
+**Resources to use**:
+  - [The Complete Software Developer's Career Guide](https://www.amazon.com/Complete-Software-Developers-Career-Guide/dp/0999081411)
+  - [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+
+**Example projects**: Update your resume and cover letter, start networking online and offline
+&nbsp; 
+
+## Updating CV and LinkedIn Profile
+
+**Estimated duration**: 1 week
+
+**Topics to learn**: Tailoring your CV for software engineering roles, optimizing your LinkedIn profile, and creating a strong online presence
+
+**Resources to use**:
+  - [The Google Resume](https://www.amazon.com/Google-Resume-Prepare-Microsoft-Company-ebook/dp/B006ZGGVYW)
+  - [LinkedIn for Software Developers: A Complete Guide](https://dev.to/dailydotnettips/linkedin-for-software-developers-a-complete-guide-3md3)
+
+**Example projects**: Update your CV, optimize your LinkedIn profile, and showcase your projects and accomplishments
