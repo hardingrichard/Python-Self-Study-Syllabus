@@ -40,7 +40,7 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 28. [Introduction to DevOps](#introduction-to-devops) (Optional)
 29. [Open Source Contributions](#open-source-contributions) (Optional)
 
----
+&nbsp; 
 
 ## Introduction to Python and Programming Basics
 
@@ -114,3 +114,16 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 &nbsp;  
 
+## Introduction to Git and Version Control
+
+**Estimated duration**: 1 week
+
+**Topics to learn**: Version control, Git basics, GitHub, repositories, branching, merging, and collaboration
+
+**Resources to use**:
+  - [Git Pro Book](https://git-scm.com/book/en/v2)
+  - [GitHub Guides](https://guides.github.com/)
+
+**Example projects**: Create a GitHub repository for your personal projects, practice Git workflow with a simple project
+
+&nbsp;  
