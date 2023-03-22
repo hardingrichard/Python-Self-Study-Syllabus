@@ -1,5 +1,11 @@
 # Python Programming | A Self-Study Syllabus For A Career In Tech.
 
+This self-taught syllabus is designed to help learn Python programming and computer science concepts to become employable in the tech industry. 
+
+The syllabus is structured in 20 weeks, with weekly learning objectives, resources, and project examples for each topic. 
+
+There are 20 weeks of optional topics to cover either alongside or as continuous learning based on areas of interest and goals.
+
 ## Table of Contents
 
 1. [Introduction to Python and Programming Basics](#introduction-to-python-and-programming-basics)
