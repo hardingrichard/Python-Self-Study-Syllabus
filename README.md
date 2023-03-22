@@ -441,3 +441,22 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 </details>
 &nbsp;
+
+## Introduction to DevOps
+
+<details>
+<summary>Click to expand</summary>
+
+**Estimated duration**: 1 week
+
+**Topics to learn**: DevOps culture, collaboration, continuous integration and delivery, infrastructure as code, monitoring, and automation
+
+**Resources to use**:
+  - [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
+  - [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)
+  - [Infrastructure as Code: Managing Servers in the Cloud](https://www.amazon.com/Infrastructure-Code-Managing-Servers-Cloud/dp/1491924357)
+
+**Example projects**: Implement continuous integration and delivery for a web application using Jenkins and Ansible, and manage infrastructure as code with Terraform.
+
+</details>
+&nbsp;
