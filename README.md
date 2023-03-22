@@ -2,7 +2,7 @@
 
 This self-taught syllabus is designed to help learn Python programming and computer science concepts to become employable in the tech industry. 
 
-The syllabus is structured in 20 weeks, with weekly learning objectives, resources, and project examples for each topic. 
+The syllabus is structured in 40 weeks, with weekly learning objectives, resources, and project examples for each topic. Assuming a 2-hour study session per day. Please note that the estimates may vary depending on the learning pace and prior experience.
 
 There are 20 weeks of optional topics to cover either alongside or as continuous learning based on areas of interest and goals.
 
@@ -20,30 +20,29 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 8. [Advanced Python Concepts](#advanced-python-concepts)
 9. [Data Structures and Algorithms (Part 2)](#data-structures-and-algorithms-part-2)
 10. [Design Patterns](#design-patterns)
-11. [Soft Skills and Job Search Strategies](#soft-skills-and-job-search-strategies)
-12. [Updating CV and LinkedIn Profile](#updating-cv-and-linkedin-profile)
-13. [Job Search Strategies](#job-search-strategies)
-14. [Technical Interview Preparation](#technical-interview-preparation)
-15. [Behavioral Interview Preparation and Job Offer Negotiation](#behavioral-interview-preparation-and-job-offer-negotiation)
-16. [Regular Expressions and Web Scraping](#regular-expressions-and-web-scraping) (Optional)
-17. [Basic Data Science and Visualization](#basic-data-science-and-visualization) (Optional)
-18. [Introduction to Web Development with Flask](#introduction-to-web-development-with-flask) (Optional)
-19. [Web Frontend Development](#web-frontend-development) (Optional)
-20. [Advanced Web Development with Django](#advanced-web-development-with-django) (Optional)
-21. [Containers and Orchestration](#containers-and-orchestration) (Optional)
-22. [Continuous Integration and Continuous Deployment (CI/CD)](#continuous-integration-and-continuous-deployment-cicd) (Optional)
-23. [Networking and Security](#networking-and-security) (Optional)
-24. [Cybersecurity Fundamentals](#cybersecurity-fundamentals) (Optional)
-25. [Cloud Computing and Deployment](#cloud-computing-and-deployment) (Optional)
-26. [Introduction to Machine Learning with Python](#introduction-to-machine-learning-with-python) (Optional)
-27. [Functional Programming](#functional-programming) (Optional)
-28. [Introduction to DevOps](#introduction-to-devops) (Optional)
-29. [Open Source Contributions](#open-source-contributions) (Optional)
+11. [Updating CV and LinkedIn Profile](#updating-cv-and-linkedin-profile)
+12. [Soft Skills and Job Search Strategies](#soft-skills-and-job-search-strategies)
+13. [Technical Interview Preparation](#technical-interview-preparation)
+14. [Behavioral Interview Preparation and Job Offer Negotiation](#behavioral-interview-preparation-and-job-offer-negotiation)
+15. [Regular Expressions and Web Scraping](#regular-expressions-and-web-scraping) (Optional)
+16. [Basic Data Science and Visualization](#basic-data-science-and-visualization) (Optional)
+17. [Introduction to Web Development with Flask](#introduction-to-web-development-with-flask) (Optional)
+18. [Web Frontend Development](#web-frontend-development) (Optional)
+19. [Advanced Web Development with Django](#advanced-web-development-with-django) (Optional)
+20. [Containers and Orchestration](#containers-and-orchestration) (Optional)
+21. [Continuous Integration and Continuous Deployment (CI/CD)](#continuous-integration-and-continuous-deployment-cicd) (Optional)
+22. [Networking and Security](#networking-and-security) (Optional)
+23. [Cybersecurity Fundamentals](#cybersecurity-fundamentals) (Optional)
+24. [Cloud Computing and Deployment](#cloud-computing-and-deployment) (Optional)
+25. [Introduction to Machine Learning with Python](#introduction-to-machine-learning-with-python) (Optional)
+26. [Functional Programming](#functional-programming) (Optional)
+27. [Introduction to DevOps](#introduction-to-devops) (Optional)
+28. [Open Source Contributions](#open-source-contributions) (Optional)
 &nbsp; 
 
 ## Introduction to Python and Programming Basics
 
-**Estimated duration**: 2 weeks
+**Estimated duration**: 4 weeks
 
 **Topics to learn**: Python installation, basic data types, operators, control structures, loops, and functions
 
@@ -58,7 +57,7 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 ## Object-Oriented Programming in Python
 
-**Estimated duration**: 1 week
+**Estimated duration**: 4 week
 
 **Topics to learn**: Classes, objects, inheritance, polymorphism, encapsulation, and abstract classes
 
@@ -71,7 +70,7 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 ## Data Structures and Algorithms (Part 1)
 
-**Estimated duration**: 2 weeks
+**Estimated duration**: 5 weeks
 
 **Topics to learn**: Arrays, linked lists, stacks, queues, hash tables, and basic sorting algorithms (bubble, insertion, and selection sort)
 
@@ -84,7 +83,7 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 ## File Input/Output and Exception Handling
 
-**Estimated duration**: 1 week
+**Estimated duration**: 2 week
 
 **Topics to learn**: File operations (reading, writing, appending), file formats (CSV, JSON, etc.), exception handling, and custom exception creation
 
@@ -97,7 +96,7 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 ## Working with APIs and Databases
 
-**Estimated duration**: 2 weeks
+**Estimated duration**: 3 weeks
 
 **Topics to learn**: RESTful APIs, API libraries (e.g., Requests), database fundamentals, SQL, and Python database libraries (e.g., SQLite, SQLAlchemy)
 
@@ -136,7 +135,7 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 ## Advanced Python Concepts
 
-**Estimated duration**: 1 week
+**Estimated duration**: 5 week
 
 **Topics to learn**: List comprehensions, lambda functions, decorators, context managers, and generators
 
@@ -149,7 +148,7 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 ## Data Structures and Algorithms (Part 2)
 
-**Estimated duration**: 2 weeks
+**Estimated duration**: 5 weeks
 
 **Topics to learn**: Trees, graphs, advanced sorting algorithms (merge, quick, and heap sort), and basic search algorithms (linear, binary)
 
@@ -162,7 +161,7 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 ## Design Patterns
 
-**Estimated duration**: 1 week
+**Estimated duration**: 4 week
 
 **Topics to learn**: Creational, structural, and behavioral design patterns, Python implementations of popular design patterns
 
@@ -171,19 +170,6 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
   - [Python Design Patterns: For Sleek and Fashionable Code](https://www.amazon.com/Python-Design-Patterns-Fashionable-Code-ebook/dp/B08K96Q2W4)
 
 **Example projects**: Implement a small project using one or more design patterns
-&nbsp; 
-
-## Soft Skills and Job Search Strategies
-
-**Estimated duration**: 1 week
-
-**Topics to learn**: Communication, teamwork, problem-solving, resume and cover letter writing, networking, and job search strategies
-
-**Resources to use**:
-  - [The Complete Software Developer's Career Guide](https://www.amazon.com/Complete-Software-Developers-Career-Guide/dp/0999081411)
-  - [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
-
-**Example projects**: Update your resume and cover letter, start networking online and offline
 &nbsp; 
 
 ## Updating CV and LinkedIn Profile
@@ -200,24 +186,24 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 **Example projects**: Update your CV, optimize your LinkedIn profile, and showcase your projects and accomplishments by building a personal website or online portfolio
 &nbsp;
 
-## Job Search Strategies
+## Soft Skills and Job Search Strategies
 
 **Estimated duration**: 1 week
 
-**Topics to learn**: Job search websites and resources, working with recruiters, preparing for interviews, salary negotiations, and evaluating job offers
+**Topics to learn**: Communication, teamwork, problem-solving, networking, and job search strategies, working with recruiters, preparing for interviews, salary negotiations, and evaluating job offers
 
 **Resources to use**:
   - [Indeed](https://www.indeed.com/)
   - [Glassdoor](https://www.glassdoor.com/)
-  - [Reed](https://www.reed.co.uk/)
-  - [Monster](https://www.monster.co.uk/)
+  - [The Complete Software Developer's Career Guide](https://www.amazon.com/Complete-Software-Developers-Career-Guide/dp/0999081411)
+  - [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 
 **Example projects**: Identify and apply to job postings that align with your career goals, work with a recruiter to find job opportunities, practice salary negotiations and evaluating job offers
 &nbsp;
 
 ## Technical Interview Preparation
 
-**Estimated duration**: 2 weeks
+**Estimated duration**: 1 weeks
 
 **Topics to learn**: Technical interviews, coding challenges, data structures and algorithms, behavioral interviews, and interview best practices
 
