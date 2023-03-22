@@ -213,4 +213,19 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
   - [Monster](https://www.monster.co.uk/)
 
 **Example projects**: Identify and apply to job postings that align with your career goals, work with a recruiter to find job opportunities, practice salary negotiations and evaluating job offers
+&nbsp;
 
+## Technical Interview Preparation
+
+**Estimated duration**: 2 weeks
+
+**Topics to learn**: Technical interviews, coding challenges, data structures and algorithms, behavioral interviews, and interview best practices
+
+**Resources to use**:
+  - [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+  - [LeetCode](https://leetcode.com/)
+  - [HackerRank](https://www.hackerrank.com/)
+  - [Interview Cake](https://www.interviewcake.com/)
+
+**Example projects**: Practice solving coding challenges on LeetCode, HackerRank, and Interview Cake, participate in mock technical interviews with peers or mentors
+&nbsp;
