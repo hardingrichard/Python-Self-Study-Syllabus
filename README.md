@@ -2,9 +2,9 @@
 
 This self-taught syllabus is designed to help learn Python programming and computer science concepts to become employable in the tech industry. 
 
-The syllabus is structured in 40 weeks, with weekly learning objectives, resources, and project examples for each topic. Assuming a 2-hour study session per day. Please note that the estimates may vary depending on the learning pace and prior experience.
+The syllabus is structured in 36 weeks, with weekly learning objectives, resources, and project examples for each topic. Assuming a 2-hour study session per day. Please note that the estimates may vary depending on the learning pace and prior experience.
 
-There are 20 weeks of optional topics to cover either alongside or as continuous learning based on areas of interest and goals.
+There are 40 weeks of optional topics to cover either alongside or as continuous learning based on areas of interest and goals. Keep in mind that these are rough estimates and the actual time investment may vary.
 
 ---
 
@@ -239,7 +239,7 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 ## Regular Expressions and Web Scraping
 
-**Estimated duration**: 1 week
+**Estimated duration**: 2 week
 
 **Topics to learn**: Regular expressions, HTML parsing, web scraping, and data cleaning
 
@@ -254,7 +254,7 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 ## Basic Data Science and Visualization
 
-**Estimated duration**: 2 weeks
+**Estimated duration**: 3 weeks
 
 **Topics to learn**: Data wrangling, data analysis, data visualization using Python libraries like NumPy, Pandas, and Matplotlib
 
@@ -284,7 +284,7 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 ## Web Frontend Development
 
-**Estimated duration**: 4 weeks
+**Estimated duration**: 5 weeks
 
 **Topics to learn**: HTML, CSS, JavaScript, responsive design, web accessibility, and building user interfaces
 
@@ -299,7 +299,7 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 ## Advanced Web Development with Django
 
-**Estimated duration**: 4 weeks
+**Estimated duration**: 5 weeks
 
 **Topics to learn**: Python web development, Django web framework, models, views, templates, forms, and working with databases
 
@@ -314,7 +314,7 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 ## Containers and Orchestration
 
-**Estimated duration**: 3 weeks
+**Estimated duration**: 2 weeks
 
 **Topics to learn**: Containerization, Docker, Kubernetes, container orchestration, and managing containers at scale
 
@@ -328,7 +328,7 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 ## Continuous Integration and Continuous Deployment (CI/CD)
 
-**Estimated duration**: 1 week
+**Estimated duration**: 3 weeks
 
 **Topics to learn**: Continuous Integration, Continuous Deployment, Jenkins, Travis CI, GitHub Actions, and Heroku
 
@@ -343,9 +343,25 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 &nbsp;
 
+## Networking and Security
+
+**Estimated duration**: 3 weeks
+
+**Topics to learn**: Networking fundamentals, network protocols, network security, secure communication, firewalls, and intrusion detection systems
+
+**Resources to use**:
+  - [Computer Networking: A Top-Down Approach](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149)
+  - [Network Security Basics: Understanding Networking Fundamentals and Security](https://www.amazon.com/Network-Security-Basics-Understanding-Fundamentals/dp/1484266879)
+  - [Network Security Fundamentals](https://www.coursera.org/learn/network-security-fundamentals)
+  - [Introduction to Network Security](https://www.cybrary.it/course/intro-to-network-security/)
+
+**Example projects**: Set up a secure home network, configure a firewall, and implement an intrusion detection system
+
+&nbsp;
+
 ## Cybersecurity Fundamentals
 
-**Estimated duration**: 2 weeks
+**Estimated duration**: 3 weeks
 
 **Topics to learn**: Threat modeling, security assessment, security controls, vulnerability assessment, and penetration testing
 
@@ -360,7 +376,7 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 ## Cloud Computing and Deployment
 
-**Estimated duration**: 2 weeks
+**Estimated duration**: 3 weeks
 
 **Topics to learn**: Cloud computing, virtual machines, containers, Kubernetes, cloud deployment, and serverless architecture
 
@@ -390,7 +406,7 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 ## Functional Programming
 
-**Estimated duration**: 1 week
+**Estimated duration**: 2 week
 
 **Topics to learn**: Pure functions, immutability, recursion, higher-order functions, currying, and closures
 
@@ -405,7 +421,7 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 ## Introduction to DevOps
 
-**Estimated duration**: 1 week
+**Estimated duration**: 2 week
 
 **Topics to learn**: DevOps culture, collaboration, continuous integration and delivery, infrastructure as code, monitoring, and automation
 
@@ -420,7 +436,7 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 ## Open Source Contributions
 
-**Estimated duration**: 2-4 weeks
+**Estimated duration**: 1 week (ongoing)
 
 **Topics to learn**: Git branching, pull requests, code review, contributing guidelines, and open source licenses.
 
