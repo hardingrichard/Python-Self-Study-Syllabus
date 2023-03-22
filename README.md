@@ -133,3 +133,16 @@ There are 20 weeks of optional topics to cover either alongside or as continuous
 
 **Example projects**: Implement unit tests for a small Python project, practice debugging code using pdb
 &nbsp;  
+
+## Advanced Python Concepts
+
+**Estimated duration**: 1 week
+
+**Topics to learn**: List comprehensions, lambda functions, decorators, context managers, and generators
+
+**Resources to use**:
+  - [Python Tips: Advanced Python](https://book.pythontips.com/en/latest/)
+  - [Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008)
+
+**Example projects**: Refactor existing code using advanced Python concepts, implement a custom context manager
+&nbsp; 
